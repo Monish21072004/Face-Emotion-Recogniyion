@@ -47,7 +47,7 @@ By default, the system is trained on **7 emotions**:
 
 ```
 
-\['Angry', 'Disgusted', 'Fearful', 'Happy', 'Neutral', 'Sad', 'Surprised']
+['Angry', 'Disgusted', 'Fearful', 'Happy', 'Neutral', 'Sad', 'Surprised']
 
 ```
 
